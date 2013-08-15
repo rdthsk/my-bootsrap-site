@@ -1,0 +1,44 @@
+body{
+
+    background-image: url(../image/retina_wood/retina_wood.png);
+}
+
+.navbar{
+    background-color: #f39c12;
+    border-radius: 0;
+  
+
+}
+
+.navbar-brand{
+
+    font-family: 'Open Sans', sans-serif; 
+    color: #fff; 
+
+}
+.navbar-nav>li>a {
+    font-family: 'Open Sans', sans-serif; 
+    color: #fff;
+    text-transform: uppercase;
+    -webkit-transition: all .1s ease-in-out;
+        -moz-transition: all .1s ease-in-out;
+        transition: all .1s ease-in-out;
+ }
+
+
+.navbar-nav>li>a:link{
+    color: #fff;
+}
+
+.navbar-nav>li>a:hover{
+    color: #2ecc71;
+}
+
+.container{
+
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 1px 7px rgba(0,0,0,0.3);
+}
