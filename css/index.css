@@ -41,4 +41,10 @@ body{
     border-radius: 5px;
     padding: 10px;
     box-shadow: 0 1px 7px rgba(0,0,0,0.3);
+
+}
+
+#mypic{
+    height: 300px;
+    width: 300px;
 }
